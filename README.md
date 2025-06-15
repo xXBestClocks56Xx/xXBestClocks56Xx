@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy xXBestClocks56Xx Soy de España!<br><br>- 🔭 Aprendere: C++ TypeScript HTML CSS JS Docker<br>- 📚 Estoy aprendiendo: HTML<br>- ⚡En mi tiempo libre: Programo cosas random XD</p>
+<p align="left">Soy xXBestClocks56Xx Soy de España!<br><br>- 🔭 Aprendere: C++ TypeScript HTML CSS JS Docker<br>- 📚 Estoy aprendiendo: HTML + CSS<br>- ⚡En mi tiempo libre: Programo cosas random XD</p>
 
 ###
 
